@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:#F8FAFC;
+}
+
+footer {
+    background-color: #0F172A;
+}
+
+#primario {
+    color: #16A34A;
+}
+
+.secundario {
+    background-color: #0F172A;
+}
+
+#fondo {
+    color: #F8FAFC;
+}
+
+#texto {
+    color: #1E293B;
+}
+
+#exito {
+    color: #22C55E;
+}
+
+#error {
+    color: #EF4444;
+}
